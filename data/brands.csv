@@ -1,0 +1,12 @@
+brand_id,company_id,brand_name,source_url,notes
+B001,C001,ZYN,https://www.pmi.com/,当前品牌归属索引
+B002,C001,IQOS / Marlboro HeatSticks,https://www.fda.gov/tobacco-products/premarket-tobacco-product-applications/premarket-tobacco-product-marketing-granted-orders,历史美国授权版本
+B003,C001,General,https://www.fda.gov/tobacco-products/premarket-tobacco-product-applications/premarket-tobacco-product-marketing-granted-orders,历史口腔烟草授权
+B004,C002,Vuse,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,美国 FDA 申请主体为 RJR
+B005,C003,on!,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/nicotine-pouch-products-authorized-fda,Helix Innovations LLC
+B006,C003,NJOY,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,当前研究归属索引
+B007,C004,Ploom,https://www.jt.com/media/news/2025/0527_E01.html,JT 减害产品品牌
+B008,C004,EVO,https://www.jt.com/media/news/2025/0527_E01.html,Ploom 配套加热烟支
+B009,C004,Logic,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,历史 FDA 记录
+B010,C005,blu,https://www.imperialbrandsplc.com/our-brands,Imperial 品牌页
+B011,C006,lil,https://www.koreatimes.co.kr/business/companies/20221109/ktg-launches-new-hnb-lil-aible,韩国上市报道
