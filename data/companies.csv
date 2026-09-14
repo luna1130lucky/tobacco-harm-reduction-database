@@ -1,0 +1,7 @@
+company_id,company_name,short_name,headquarters,website,notes,last_updated
+C001,菲利普莫里斯国际 Philip Morris International,PMI,美国,https://www.pmi.com/,含 Swedish Match 的当前归属索引；历史所有权需按事件时点核验。,2026-09-14
+C002,英美烟草 British American Tobacco,BAT,英国,https://www.bat.com/,Vuse 的美国申请主体为 R.J. Reynolds Vapor Company。,2026-09-14
+C003,奥驰亚 Altria Group,Altria,美国,https://www.altria.com/,on! 对应 Helix Innovations；NJOY 的历史归属需单独核验。,2026-09-14
+C004,日本烟草 Japan Tobacco,JTI,日本,https://www.jt.com/,按 JT 集团归集 Ploom、EVO 和 Logic，日本与美国版本分开记录。,2026-09-14
+C005,帝国品牌 Imperial Brands,Imperial,英国,https://www.imperialbrandsplc.com/,首批收录英国 blu 2.0，其他市场可继续补充。,2026-09-14
+C006,韩国烟草人参公社 KT&G,KT&G,韩国,https://en.ktng.com/,首批收录 lil AIBLE 韩国上市资料。,2026-09-14
