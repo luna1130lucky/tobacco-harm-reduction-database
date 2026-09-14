@@ -1,0 +1,23 @@
+market_id,product_id,country,country_code,city,record_type,launch_date,date_precision,channel,market_status,source,source_url,last_updated
+M0001,P0001,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/nicotine-pouch-products-authorized-fda,2026-09-14
+M0002,P0002,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/nicotine-pouch-products-authorized-fda,2026-09-14
+M0003,P0003,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/ctp-newsroom/fda-authorizes-11-new-nicotine-pouches,2026-09-14
+M0004,P0004,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/ctp-newsroom/fda-authorizes-11-new-nicotine-pouches,2026-09-14
+M0005,P0005,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/nicotine-pouch-products-authorized-fda,2026-09-14
+M0006,P0006,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/nicotine-pouch-products-authorized-fda,2026-09-14
+M0007,P0007,美国,US,,Regulatory scope,,,FDA 历史 MGO 页面管辖区,历史授权记录；当前状态需复核,FDA 历史 MGO 表,https://www.fda.gov/tobacco-products/premarket-tobacco-product-applications/premarket-tobacco-product-marketing-granted-orders,2026-09-14
+M0008,P0008,美国,US,,Regulatory scope,,,FDA 历史 MGO 页面管辖区,历史授权记录；当前状态需复核,FDA 历史 MGO 表,https://www.fda.gov/tobacco-products/premarket-tobacco-product-applications/premarket-tobacco-product-marketing-granted-orders,2026-09-14
+M0009,P0009,美国,US,,Regulatory scope,,,FDA 历史 MGO 页面管辖区,历史授权记录；当前状态需复核,FDA 历史 MGO 表,https://www.fda.gov/tobacco-products/premarket-tobacco-product-applications/premarket-tobacco-product-marketing-granted-orders,2026-09-14
+M0010,P0010,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,2026-09-14
+M0011,P0011,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,2026-09-14
+M0012,P0012,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,2026-09-14
+M0013,P0013,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,2026-09-14
+M0014,P0014,美国,US,,Regulatory scope,,,FDA 当前数据库管辖区,授权销售资格；实际库存待采集,FDA 当前清单,https://www.fda.gov/tobacco-products/market-and-distribute-tobacco-product/e-cigarettes-vapes-and-other-electronic-nicotine-delivery-systems-ends-authorized-fda,2026-09-14
+M0015,P0015,美国,US,,Regulatory scope,,,FDA 历史 MGO 页面管辖区,历史授权记录；当前状态需复核,FDA 历史 MGO 表,https://www.fda.gov/tobacco-products/premarket-tobacco-product-applications/premarket-tobacco-product-marketing-granted-orders,2026-09-14
+M0016,P0016,日本,JP,,Launch,2025-05-27,day,CLUB JT 在线商店与 Ploom Shops 首发,JT 新闻稿明确首发；全国便利店 2025-07-01 起铺货,JT 官方新闻稿,https://www.jt.com/media/news/2025/0527_E01.html,2026-09-14
+M0017,P0017,日本,JP,,Launch,2025-05-27,day,CLUB JT 在线商店与 Ploom Shops 首发,JT 新闻稿明确首发；当前在售待复核,JT 官方新闻稿,https://www.jt.com/media/news/2025/0527_E01.html,2026-09-14
+M0018,P0018,日本,JP,,Launch,2025-05-27,day,CLUB JT 在线商店与 Ploom Shops 首发,JT 新闻稿明确首发；当前在售待复核,JT 官方新闻稿,https://www.jt.com/media/news/2025/0527_E01.html,2026-09-14
+M0019,P0019,日本,JP,,Launch,2025-05-27,day,CLUB JT 在线商店与 Ploom Shops 首发,JT 新闻稿明确首发；当前在售待复核,JT 官方新闻稿,https://www.jt.com/media/news/2025/0527_E01.html,2026-09-14
+M0020,P0020,英国,GB,,Announced launch,2022,year,英国市场,公司品牌页记录上市年份；具体首销日期待采集,Imperial 品牌页,https://www.imperialbrandsplc.com/our-brands,2026-09-14
+M0021,P0021,韩国,KR,首尔,Announced launch,2022-11-16,day,首尔便利店、lil MINIMALIUM、线上商城,报道披露计划开售；实际首销待复核,The Korea Times,https://www.koreatimes.co.kr/business/companies/20221109/ktg-launches-new-hnb-lil-aible,2026-09-14
+M0022,P0022,韩国,KR,首尔,Announced launch,2022-11-16,day,首尔便利店、lil MINIMALIUM、线上商城,报道披露计划开售；实际首销待复核,The Korea Times,https://www.koreatimes.co.kr/business/companies/20221109/ktg-launches-new-hnb-lil-aible,2026-09-14
