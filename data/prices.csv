@@ -1,0 +1,7 @@
+price_id,product_id,price,currency,pack_quantity,pack_unit,country,city,retailer,sales_location,price_type,tax_included,price_date,observed_at,source,source_url,notes
+PR0001,P0016,2980,JPY,1,套,日本,,JT,日本 CLUB JT 官网 / Ploom Shops 首发渠道,历史官方建议零售价,含税,2025-05-27,2026-09-14,JT 官方新闻稿,https://www.jt.com/media/news/2025/0527_E01.html,上市时官方定价；不是 2026 年现价或门店实测
+PR0002,P0017,550,JPY,20,支,日本,,JT,日本 CLUB JT 官网 / Ploom Shops 首发渠道,历史官方上市价格,含税,2025-05-27,2026-09-14,JT 官方新闻稿,https://www.jt.com/media/news/2025/0527_E01.html,每包 20 支；历史上市定价
+PR0003,P0018,550,JPY,20,支,日本,,JT,日本 CLUB JT 官网 / Ploom Shops 首发渠道,历史官方上市价格,含税,2025-05-27,2026-09-14,JT 官方新闻稿,https://www.jt.com/media/news/2025/0527_E01.html,每包 20 支；历史上市定价
+PR0004,P0021,110000,KRW,1,台,韩国,首尔,KT&G,首尔便利店 / lil MINIMALIUM / 官方线上商城,媒体记录的历史上市定价,税口径未说明,2022-11-09,2026-09-14,The Korea Times,https://www.koreatimes.co.kr/business/companies/20221109/ktg-launches-new-hnb-lil-aible,发布会报价；预计 2022-11-16 开售，不是门店实测
+PR0005,P0022,200000,KRW,1,台,韩国,首尔,KT&G,首尔便利店 / lil MINIMALIUM / 官方线上商城,媒体记录的历史上市定价,税口径未说明,2022-11-09,2026-09-14,The Korea Times,https://www.koreatimes.co.kr/business/companies/20221109/ktg-launches-new-hnb-lil-aible,发布会报价；预计 2022-11-16 开售，不是门店实测
+PR0006,P0020,9.99,GBP,1,台,英国,,blu,英国 blu 线上及便利店线索,媒体记录的历史建议零售价,税口径未说明,2022-10-28,2026-09-14,The Grocer,https://www.thegrocer.co.uk/news/imperial-brands-unveils-bigger-better-blu-20-vaping-device/672965.article,历史上市资料；具体线上商品页面价格待复核
